@@ -4,9 +4,11 @@ Suite: stable
 Codename: noble
 Architectures: amd64
 Components: main
-Description: TAIPAN Linux APT Repo
-Date: Mon, 02 Jun 2025 21:19:30 +0000
+Description: TAIPAN Linux APT Repository
+Date: Mon, 02 Jun 2025 21:23:49 +0000
+
 MD5Sum:
- a296404f7c1386d0e5aed0f7c783229f 41 main/binary-amd64/Packages.gz
+ a296404f7c1386d0e5aed0f7c783229f 710 main/binary-amd64/Packages.gz
+
 SHA256:
- b14b7b7ddb95a272af510d3b2e8d7971c0054bfc71ac6590c442e5f56bf4ca03 41 main/binary-amd64/Packages.gz
+ b14b7b7ddb95a272af510d3b2e8d7971c0054bfc71ac6590c442e5f56bf4ca03 710 main/binary-amd64/Packages.gz
