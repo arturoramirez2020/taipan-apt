@@ -1,7 +1,8 @@
-Origin: TAIPAN LINUX
+Origin: TAIPAN Linux
 Label: TAIPAN
-Suite: noble
+Suite: stable
 Codename: noble
 Architectures: amd64
 Components: main
-Description: TAIPAN LINUX APT Repository
+Description: TAIPAN Linux APT Repo
+Date: Mon, 02 Jun 2025 21:17:43 +0000
