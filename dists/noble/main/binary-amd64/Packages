@@ -1,0 +1,14 @@
+Package: taipan-settings
+Version: 1.0
+Architecture: all
+Maintainer: Arturo Ramirez
+Depends: python3, python3-pyqt5, mousepad, plank, gufw, bleachbit, network-manager-gnome, synaptic, xfce4-settings, xfce4-taskmanager, neofetch
+Filename: pool/main/taipan-settings_1.0_all.deb
+Size: 97156
+MD5sum: 10861f32c3df1abdba69816b533d25cf
+SHA1: 8c44d17e4bc1c8dfa0b8b715377996dc99d198e1
+SHA256: be76d22b63ff79f22493f7fd30f231d05c0a816ccbb9918b346e20f9db0b5937
+Section: utils
+Priority: optional
+Description: TAIPAN Settings Center - Central system control panel for TAIPAN LINUX.
+
