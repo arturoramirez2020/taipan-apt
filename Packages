@@ -1,0 +1,73 @@
+Package: taipan-core
+Version: 1.0
+Architecture: all
+Maintainer: Taipan Linux <taipanlinux@protonmail.com>
+Filename: pool/taipan-core_1.0_all.deb
+Size: 1288
+MD5sum: 36e79c31750c3700bd496fc25c7fe800
+SHA1: edd0e644031ef9bf83a6af6a95768381ea48b2c3
+SHA256: d583c38f9b42731f33a4065ec9ef8d482ace129472189ee6ce1118842cf74022
+Section: base
+Priority: required
+Description: Core configuration and system tweaks for TAIPAN LINUX
+ Includes performance tuning, branding, and base scripts.
+
+Package: taipan-icons
+Version: 1.0.1
+Architecture: all
+Maintainer: Arturo Ramirez
+Filename: pool/main/t/taipan-icons_1.0.1_all.deb
+Size: 5018172
+MD5sum: d4992edb7e216e8548b2d27ff13223dc
+SHA1: 3598d9fd69934a3969701e0a6c26c4c8c2bba24b
+SHA256: 5fe486db6835d38999a7575658d71cd5ff8895cee8f841b31f99a625ecaea93c
+Description: WhiteSur-based icon theme for TAIPAN LINUX
+
+Package: taipan-settings
+Version: 1.0
+Architecture: all
+Maintainer: Arturo Ramirez
+Depends: python3, python3-pyqt5, mousepad, plank, gufw, bleachbit, network-manager-gnome, synaptic, xfce4-settings, xfce4-taskmanager, neofetch
+Filename: pool/main/taipan-settings_1.0_all.deb
+Size: 97156
+MD5sum: 10861f32c3df1abdba69816b533d25cf
+SHA1: 8c44d17e4bc1c8dfa0b8b715377996dc99d198e1
+SHA256: be76d22b63ff79f22493f7fd30f231d05c0a816ccbb9918b346e20f9db0b5937
+Section: utils
+Priority: optional
+Description: TAIPAN Settings Center - Central system control panel for TAIPAN LINUX.
+
+Package: taipan-theme
+Version: 1.0.1
+Architecture: all
+Maintainer: Arturo Ramirez
+Filename: pool/main/t/taipan-theme_1.0.1_all.deb
+Size: 224212
+MD5sum: a74af2310dd0be74fe5a8397a12cdb1a
+SHA1: 8c36f9c1f23bce4197b80ee1d2c25a743cade9fb
+SHA256: 57fbf64fb95df7919c08bc163b204c8cabdf7e6e34013c11f13b705a7f2a9596
+Description: WhiteSur-based GTK theme for TAIPAN LINUX
+
+Package: taipan-wallpapers
+Version: 1.0.2
+Architecture: all
+Maintainer: Arturo Ramirez
+Filename: pool/main/t/taipan-wallpapers_1.0.2_all.deb
+Size: 1575684
+MD5sum: d10ff2e153cac26a71f9a87c15959927
+SHA1: 074349a9795dd26c2444a7f42a661d8746439d2e
+SHA256: cf6a8e4db552c8aaae8e30c8bf9451b35a6258a6efe583e8384b1901a9a3fbba
+Description: Official wallpapers for TAIPAN LINUX.
+
+Package: taipan-welcome
+Version: 1.0.0
+Architecture: all
+Maintainer: TAIPAN Linux <you@example.com>
+Depends: python3, python3-gi, gir1.2-gtk-3.0
+Filename: pool/main/t/taipan-welcome_1.0.0_all.deb
+Size: 560988
+MD5sum: 1612e20920376288085ccc6f9c341de3
+SHA1: 81af4597447a0cb47872e788cba707c789c859a4
+SHA256: 891c5fbfd84880092885e0e7880e92add6d4f0f9cbb38a249ae8c1ea74dcd228
+Description: Welcome app for TAIPAN LINUX
+
