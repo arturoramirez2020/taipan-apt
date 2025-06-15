@@ -1,0 +1,29 @@
+Date: Sun, 15 Jun 2025 22:06:06 +0000
+MD5Sum:
+ 0d5ea22750319e27c1cc751d0388ee22             2549 Packages
+ c8d8d97e6082f556f0c7de2ccb694976             1192 Packages.gz
+ ccf10256647bf937fa96aec7e0da5375               38 Release
+ ff6785d1b2b4ab6a9b6500ff6a528885              368 dists/noble/Release
+ d8b9e61b17e66df64f08e36daaa5728d              568 dists/noble/main/binary-amd64/Packages
+ e316957758ce1f27ce03fed9cd2ad95e              426 dists/noble/main/binary-amd64/Packages.gz
+SHA1:
+ 44ea8ff481389f89b3e710e529cf8e1e83d16ccd             2549 Packages
+ 2cc623e628f5ad9adc490e0dd26f3a603aa0c095             1192 Packages.gz
+ cafed71a001b73054d077c03a01bb8581cafc870               38 Release
+ ac17102e5485f8827328063323faddec20e24e51              368 dists/noble/Release
+ b700f43ea045a9e1c3715fe844c3f7097b6d61ed              568 dists/noble/main/binary-amd64/Packages
+ 8ad00f188bf58ea907bc2bcf4250bfee69519c1f              426 dists/noble/main/binary-amd64/Packages.gz
+SHA256:
+ 59ce36984036fbb06f2a0120d1c9e3fcad8bfc82dfb367831a68fee7f6c66309             2549 Packages
+ 96633f8c233e0bc8adbe01e270cf1df2333ba5cfdced7905c1d4c410ca4e4c2a             1192 Packages.gz
+ 81686a7b7f6467b08114956bcfb37ee1ac8451d0afc4755f6f18d12e674b6f81               38 Release
+ 0da398d75388fbd00bdd8bcd56222b3734d45234a0fb4ffdf5b5eccba6913c3f              368 dists/noble/Release
+ 4b7381c4649e922288d86b46ca363229f4afd840f6abe8b2a076948f512bcb1c              568 dists/noble/main/binary-amd64/Packages
+ 7ce19d32f0c8cacb9a85210c10f69cecbb7990187e9ac6603a2bc69910ada8c0              426 dists/noble/main/binary-amd64/Packages.gz
+SHA512:
+ 97f12a74bb9693d449f647742f95fd4a06ef1785329608d256fef46ecd35cfc08aec008f30ff54460326c1e54c832257c0acb66de6cdab06bdfdd0655142900a             2549 Packages
+ 318a557b0d50bdc09c99a33df3694a002c93439efe1847a11925587a43691576ce2ad23fe5322616ed5627e4beed2466dcf73cb9f6ad1f20e88fdf18cec1eba7             1192 Packages.gz
+ aa50df1f7d8792ff6b1ae7dbe70339be1274fc0c29ff4b125a46e096e5655b05dd33b67416976ab40c7cae3a5cac4aac6840b74d9db738294db7d0f7aea1ecf6               38 Release
+ b8aa3b237e740dbff982a34efec764900ff86958951ef9b8b92273438ed4c980f27b7ea1350fa4fec15fb99ace79d5a405be94be89e08086dcba299053f591b1              368 dists/noble/Release
+ ee42488eaea138f2e6d7d501406c98d4ce0a9514ffeb40d740f3b6dd0eb84fdef23ea64833fc2b71442092247a9ff337df80d8ba25fc17bc2f1116696d232bdf              568 dists/noble/main/binary-amd64/Packages
+ 0b60e18d116b4414816de4f9dfbff0d7e01f56f56511a4be39025a4e589966115a5a19c1fba4e0666bf78668eae381069c19e3c7419b359ffe457245387f5123              426 dists/noble/main/binary-amd64/Packages.gz
